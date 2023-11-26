@@ -30,3 +30,4 @@ scale_y_continuous(name = "Effective Reproduction Number", limits = c(0,NA), exp
 png("assets/graph.png")
 fig_a /fig_b
 dev.off()
+
